@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622149514 source:c:\users\midasm2020\documents\fundamentos informatica\probando libreria string.h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

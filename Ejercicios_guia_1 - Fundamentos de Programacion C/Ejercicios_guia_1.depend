@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619208785 source:c:\users\midasm2020\documents\fundamentos informatica\ejercicios_guia_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619209225 source:c:\users\midasm2020\documents\fundamentos informatica\ejercicios_guia_1\ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+
